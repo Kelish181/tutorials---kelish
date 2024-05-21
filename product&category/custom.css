@@ -1,0 +1,209 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+nav {
+  width: 200px;
+  background-color: #f4f4f4;
+  padding: 10px;
+
+  height: 20%;
+}
+.update-form {
+  display: flex;
+  align-items: center;
+}
+
+.update-form input {
+  margin-right: 10px;
+}
+
+nav a {
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+  color: blue;
+  border-bottom: 2px solid blue;
+  border-right: 2px solid blue;
+  border-left: 2px solid blue;
+  border-top: 2px solid blue;
+}
+
+nav a:hover {
+  background-color: #ddd;
+}
+
+.div {
+  margin: 80px 0 0 220px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.text p {
+  color: blue;
+  font-size: 20px;
+  margin: 100px 0 0 300px;
+}
+
+button {
+    background-color: gray;
+    border: none;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5%;
+    width: 300px;
+    height: 35px;
+    display: inline-block; /* Changed from display: none; */
+}
+
+button:hover {
+    background-color: blue;
+}
+
+.container input {
+  position: relative;
+  margin: 30px 0 0 30%;
+  width: 60%;
+  height: 50px;
+  border: 2px solid blue;
+}
+
+.container input:hover {
+  border: 2px solid blue;
+}
+
+.d-grid {
+  position: relative;
+  margin: -30px 0 0 75%;
+}
+
+form {
+  margin-top: 2%;
+  margin-left: 15%;
+}
+.table {
+  margin-top: 0px;
+  position: relative;
+}
+body {
+  margin:0;
+  font-family: Arial, sans-serif;
+}
+h3 {
+  margin-top: 10px;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+nav {
+  width: 200px;
+  background-color: #f4f4f4;
+  padding: 10px;
+
+  height:20%;
+}
+.update-form {
+  display: flex;
+  align-items: center;
+}
+
+.update-form input {
+  margin-right: 10px;
+}
+
+nav a {
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+  color: blue;
+  border-bottom: 2px solid blue;
+  border-right: 2px solid blue;
+  border-left: 2px solid blue;
+  border-top: 2px solid blue;
+}
+
+nav a:hover {
+  background-color: #ddd;
+}
+
+.div {
+  margin: 80px 0 0 220px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.text p {
+  color: blue;
+  font-size: 20px;
+  margin: 100px 0 0 300px;
+}
+
+.container form{
+position: relative;
+padding:2px;
+}
+
+.div1 {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  /* margin: 4px 2px; */
+  cursor: pointer;
+  border-radius: 5%;
+  margin-bottom: 30px;
+  /* width:300px;
+ height:45px; */
+}
+
+
+.div1:hover {
+  background-color: orange;
+  border: none;
+}
+.container input {
+  position: relative;
+  margin: 30px 0 0 30%;
+  width: 60%;
+  height: 50px;
+  border: 2px solid blue;
+}
+
+.container input:hover {
+  border: 2px solid blue;
+}
+
+form {
+  margin-top: 2%;
+  margin-left: 15%;
+}
+
+.btn-primary,
+.btn-danger {
+  width: 80px; /* Adjust the width as needed */
+  height: 35px; /* Adjust the height as needed */
+  margin-right: 5px; /* Optional: Adjust the spacing between buttons */
+}
+
+.btn {
+  position: relative;
+}
